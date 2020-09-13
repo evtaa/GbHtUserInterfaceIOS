@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "PhotosMyFriendsSwipeViewController.onPan(_:):PhotosMyFriendsSwipeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "offsetImageView">
+            </PersistentString>
+            <PersistentString
+               value = "imageView.center.x">
+            </PersistentString>
+            <PersistentString
+               value = "translation.x">
+            </PersistentString>
+            <PersistentString
+               value = "xZeroPositionImageView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
