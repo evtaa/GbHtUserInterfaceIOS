@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "A7C55165-36B2-46CC-B4BF-D168F5EBE31B"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "vk/UIView/LikeUIControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LikeUIControl"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - fdf8d42f8998257c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.likeButton.getter : __C.UIButton"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - c64f3b2020991568"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.likeButton.setter : __C.UIButton"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "164">
+               </Location>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - e1ce9205f7e3097f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.likeButton.modify : __C.UIButton"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - 79832b3d87d92768"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.likeButton.modify : __C.UIButton with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - cc52b48fec1889f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.init(frame: __C.CGRect) -&gt; vk.LikeUIControl"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "354">
+               </Location>
+               <Location
+                  uuid = "1A1AB286-1A94-4067-8C37-E57FFA8A8D45 - 7103fe58c27e1b03"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "vk.LikeUIControl.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;vk.LikeUIControl&gt;"
+                  moduleName = "vk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Alexandr/Documents/GeekBrains/UserInterfaceIOS/Lesson%207/L7_HT_Evtodiy%20Alexandr%20Alexandrovich/vk%C2%A04/vk/UIView/LikeUIControl.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "283">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
